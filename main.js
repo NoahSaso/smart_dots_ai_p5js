@@ -11,7 +11,7 @@ var population,
   bestPath = [];
 
 // if set to true, will give first best dot already discovered almost-optimal directions
-var USE_OPTIMIZED_DIRECTIONS = true;
+var USE_OPTIMIZED_DIRECTIONS = false;
 
 var configChanged = function() {
   onlyShowBest = onlyShowBestCheckbox.checked();
