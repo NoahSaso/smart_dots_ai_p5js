@@ -6,4 +6,4 @@ Customziable version of [https://www.youtube.com/watch?v=BOZfhUcNiqk](https://ww
 
 Mess with it here:
 
-[http://htmlpreview.github.io/?https://github.com/NoahSaso/smart_dots_ai_p5js/blob/master/index.html](http://htmlpreview.github.io/?https://github.com/NoahSaso/smart_dots_ai_p5js/blob/master/index.html)
+[https://noahsaso.github.io/smart_dots_ai_p5js](https://noahsaso.github.io/smart_dots_ai_p5js)
